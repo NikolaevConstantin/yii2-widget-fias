@@ -16,5 +16,8 @@
         "psr-4": {
             "nikolaevconstantin\\fias\\": ""
         }
-    }
+    },
+    "repositories" : [
+        {"type" : "composer", "url" : "https://github.com/NikolaevConstantin/yii2-widget-fias.git"}
+    ]
 }
