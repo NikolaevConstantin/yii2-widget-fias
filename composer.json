@@ -2,8 +2,6 @@
     "name": "nikolaevconstantin/fias",
     "description": "Yii2 widget for FIAS ajax",
     "keywords": ["yii2", "fias"],
-    "type": "yii2-extension",
-    "license": "MIT",
     "support": {
         "source": "https://github.com/NikolaevConstantin/yii2-widget-fias.git"
     },
@@ -18,5 +16,8 @@
         "psr-4": {
             "nikolaevconstantin\\fias\\": ""
         }
-    }
+    },
+    "repositories" : [
+        {"type" : "composer", "url" : "http://localhost:8001/"}
+    ]
 }
