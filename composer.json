@@ -1,23 +1,14 @@
 {
-    "name": "nikolaevconstantin/fias",
-    "description": "Yii2 widget for FIAS ajax",
-    "keywords": ["yii2", "fias"],
-    "support": {
-        "source": "https://github.com/NikolaevConstantin/yii2-widget-fias.git"
-    },
-    "authors": [
-        {
-            "name": "nico",
-            "homepage": "https://ingru.ru/",
-            "email": "kn@ingru.ru"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "nikolaevconstantin\\fias\\": ""
-        }
-    },
-    "repositories" : [
-        {"type" : "composer", "url" : "https://github.com/NikolaevConstantin/yii2-widget-fias.git"}
-    ]
+  "name": "nikolaevconstantin/fias",
+  "description": "Widget for yii2 fias ajax",
+  "homepage": "https://github.com/NikolaevConstantin/widget-kladr-onestring-yii2",
+  "autoload": {
+    "psr-4": {
+      "nikolaevconstantin\\fias\\": ""
+    }
+  },
+  "repositories" : [
+        {"type" : "composer", "url" : "http://localhost:8001/"}
+  ]
+  
 }
