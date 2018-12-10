@@ -5,8 +5,7 @@
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/ejen/yii2-fias",
-        "issues": "https://github.com/ejen/yii2-fias/issues"
+        "source": "https://github.com/NikolaevConstantin/yii2-widget-fias.git"
     },
     "authors": [
         {
