@@ -1,0 +1,23 @@
+{
+    "name": "nico/yii2-fias-ajax",
+    "description": "Yii2 widget for FIAS ajax",
+    "keywords": ["yii2", "fias"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/ejen/yii2-fias",
+        "issues": "https://github.com/ejen/yii2-fias/issues"
+    },
+    "authors": [
+        {
+            "name": "nico",
+            "homepage": "https://ingru.ru/",
+            "email": "kn@ingru.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "nico\\fias\\": ""
+        }
+    }
+}
